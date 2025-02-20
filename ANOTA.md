@@ -11,12 +11,12 @@
 # Observações
 1. Python é uma linguagem fracamente tipada.
 
-## AULA 02
+# AULA 02
 
 1. Para informar quantas casas decimais você quer após a virgula,utilizamos o comando :.2f
 2. Ao dividirmos dois números inteiros, caso necessário, ocorre uma conversão implicita[casting].
 
-## AULA 03
+# AULA 03
 
 1. Em Python, temos no momento que vamos realizar alguma operação, existe uma predcedência.
 Primeiramente, realizamos a * e a /
@@ -27,7 +27,7 @@ Podemos utilizar os () para quebrar ou organizar uma operação.
 
 3. Para converter uma string para ``int`` ou ``float``, podemos utlizar os métodos  ``int()`` ou ``float()``.
 
-## AULA 05
+# AULA 05
 
 ## ESTRUTURAS DE REPETIÇÃO
 
@@ -37,6 +37,15 @@ Podemos utilizar os () para quebrar ou organizar uma operação.
 
 2. while
 => Será utilizado quando você não sabe ao certo quantas vezes a repetição irá acontecer.Será executada enquanto a condição for verdadeira.
+
+# AULA 06
+
+## COMANDOS DE DESVIO
+
+1. continue -> Significa continuar,basicamente se uma condição for favorável, ela será descontinuada.
+2. break -> Significa quebrar, quando utilizado irá finalizar o loop mais próximo.
+
+
 
 ## Atalhos no VScode
 ``CTRL + B`` => Oculta ou exibe o explorador.
