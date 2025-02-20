@@ -45,6 +45,8 @@ Podemos utilizar os () para quebrar ou organizar uma operação.
 1. continue -> Significa continuar,basicamente se uma condição for favorável, ela será descontinuada.
 2. break -> Significa quebrar, quando utilizado irá finalizar o loop mais próximo.
 
+## FUNÇÕES
+=> É um bloco de código que é reutilizável serve para deixar o código mais organizado e eficiente. `Executam uma tarefa específica.`
 
 
 ## Atalhos no VScode
